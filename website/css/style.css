@@ -1,0 +1,45 @@
+.navColor {
+    background-color: #f5a83d
+}
+
+.container {
+    max-width: 100% !important;
+
+}
+
+.navbar-brand {
+    font-family: 'Comfortaa', cursive;
+    margin-left: 1%;
+    font-size: 170%;
+    font-weight: 600;
+}
+
+.nav-link {
+    font-family: 'Comfortaa', cursive;
+}
+
+
+.frm {
+    text-align: center;
+}
+
+.navbar-logo {
+margin-left: -0.75%;
+margin-top: -0.4%;
+margin-bottom: -0.6%;
+}
+
+.nav-item1 {
+    margin-left: 90%;
+}
+
+.nav-item2 {
+    margin-left: 200%;
+}
+
+
+.row {
+    margin-right: 0px !important;
+    margin-left: -15px !important;
+    background-color: #FFF9C4 !important;
+}
